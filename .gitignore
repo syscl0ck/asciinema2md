@@ -1,0 +1,11 @@
+# ignore session files
+session.cast
+
+# also ignore the report.md file
+report.md
+
+# ignore the debug_output.txt file
+debug_output.txt
+
+# ignore any python cache files
+__pycache__/
